@@ -1,0 +1,16 @@
+uvicorn
+slowapi
+fastapi[standard]
+aiosmtplib
+sqlalchemy
+python-dotenv
+pydantic
+python-jose
+psycopg2-binary
+
+# fastapi==0.115.0
+# uvicorn==0.31.0
+# sqlalchemy==2.0.35
+# psycopg2-binary==2.9.10
+# python-dotenv==1.0.1
+# slowapi==0.1.9

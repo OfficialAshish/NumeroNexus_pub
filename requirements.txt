@@ -1,0 +1,14 @@
+uvicorn
+slowapi
+fastapi[standard]
+fastapi_auth0
+aiosmtplib
+sqlalchemy
+python-dotenv
+pydantic
+python-jose
+psycopg2-binary
+geoalchemy2
+asyncpg
+requests
+redis

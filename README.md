@@ -21,13 +21,7 @@
 
 ## 📂 **Key Features**  
 
----
-
-### 🤝 **Friendship Connections**  
-- Build connections with other authorized users to discover mutual friends and explore their reports along with compatibility insights.
-
----
-
+ 
 ### 🔍 **Advanced Report Filtering**  
 Search and filter reports with precision using:  
 - **Location-Based Search:** Filter by geographic location with customizable radius.  
@@ -35,7 +29,10 @@ Search and filter reports with precision using:
 - **Personal Criteria:** Search by person name or specific birthday.  
 - **Guest vs. Authorized Reports:** Distinguish between guest-generated and verified reports for detailed insights.  
 
----
+
+### 🤝 **Friendship Connections**  
+- Build connections with other authorized users to discover mutual friends and explore their reports along with compatibility insights.
+
 
 ### 📝 **Numerology Reports**  
 - **User-Generated Reports:** View, organize, and manage all your created numerology reports.  
@@ -43,7 +40,6 @@ Search and filter reports with precision using:
 - **AI Summaries:**  Reports feature AI-driven concise summaries for quick insights.  
 - **Dynamic Compatibility Matches:** Logged-in users see auto-calculated compatibility matches for every report they view.  
 
----
 
 ###  **Compatibility Matching**  
 - **Interactive Interface:** Enter details for two individuals or select from saved reports to analyze compatibility.  

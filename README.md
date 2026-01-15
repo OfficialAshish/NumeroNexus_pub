@@ -87,9 +87,9 @@ Search and filter reports with precision using:
 
 ## 🌐 **Get Started with NumeroNexus**  
 
-👉 **[Explore NumeroNexus](https://numeronexus.site)**  
-👉 [Terms of Use](https://numeronexus.site/terms-of-use)  
-👉 [Privacy Policy](https://numeronexus.site/privacy-policy)  
+👉 **[Explore NumeroNexus](https://numeronexus.dedyn.io)**  
+👉 [Terms of Use](https://numeronexus.dedyn.io/terms-of-use)  
+👉 [Privacy Policy](https://numeronexus.dedyn.io/privacy-policy)  
 
 ---  
  

@@ -4,7 +4,7 @@
 
 # 🌟 **Introducing NumeroNexus**: Your Personalized Gateway to Numerology 🌌  
 
-[**Start Exploring Now**](https://numeronexus.site)  
+[**Start Exploring Now**](https://numeronexus.dedyn.io)  
 
 
 ---
